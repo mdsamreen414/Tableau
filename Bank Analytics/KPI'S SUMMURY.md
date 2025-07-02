@@ -134,5 +134,5 @@ Built using Tableau with dynamic filters, KPIs, and custom visual analytics.
 
 ## 🔗 Quick Access
 
-- 🖼 [Dashboard Screenshot](https://github.com/mdsamreen414/Tableau/blob/main/Bank%20Analytics/Screenshot%202025-07-02%20220921.png)
+- 🖼 [Dashboard Screenshot](https://github.com/mdsamreen414/Tableau/blob/main/Bank%20Analytics/Screenshot.png)
 - 📄 [Back to ReadMe](https://github.com/mdsamreen414/Tableau/blob/main/Bank%20Analytics/README.md)
